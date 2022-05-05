@@ -1,0 +1,12 @@
+.nice {
+    background-color: rgb(0, 0, 0);
+    color: hsl(0, 0%, 100%);
+}
+.brilliant {
+    background-color: yellow;
+}
+.nice,
+.brilliant {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
